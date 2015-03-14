@@ -1,0 +1,1 @@
+A idéia é simular um autômato dada sua especificação e uma cadeia a ser processada.
